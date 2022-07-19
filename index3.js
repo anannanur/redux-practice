@@ -70,7 +70,9 @@ store.dispatch(incrementCounter());
 store.dispatch(incrementCounter());
 store.dispatch(decrementCounter());
 store.dispatch(resetCounter());
-store.dispatch(incrementCounterValue(15));
+store.dispatch(incrementCounterValue(15
+    
+    ));
 
 
 
